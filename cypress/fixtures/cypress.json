@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://magento.softwaretestingboard.com/",
+  "env": {
+    "firstname": "Dinesh",
+    "lastname": "Kumar",
+    "email": "vignesh09@testmail.com",
+    "password": "kumar@123"
+  }
+}
